@@ -1,3 +1,14 @@
+
+@font-face {
+    font-family: 'Gilroy';
+   src: url("https://ajaysubx.github.io/webtemplate/gilroy-medium-webfont.woff") format("woff"),
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
 body{
     font-family: Arial, Helvetica, sans-serif;
     line-height: 1.5;
