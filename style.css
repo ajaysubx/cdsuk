@@ -1,48 +1,9 @@
 
-@font-face {
-    font-family: 'Gilroy';
-     src: url("https://ajaysubx.github.io/webtemplate/gilroy-medium-webfont.woff") format("woff");
-     font-weight: 400;
-     font-style: normal;
-    
-}
- @font-face {
-    font-family: 'Gilroy';
-     src: local('Gilroy'), url('/_assets/design-tokens/latest/oprahdaily/static/fonts/Gilroy_Bold.782a04d.woff2') format('woff2');
-     font-weight: bold;
-     font-style: normal;
-     font-display: swap;
-}
- @font-face {
-    font-family: 'Juana';
-     src: local('Juana'), url('/_assets/design-tokens/latest/oprahdaily/static/fonts/Juana_Regular.d456718.woff2') format('woff2');
-     font-weight: 400;
-     font-style: normal;
-     font-display: swap;
-}
-
-
- @font-face {
-    font-family: 'Juana';
-     src: local('Juana'), url('/_assets/design-tokens/latest/oprahdaily/static/fonts/Juana_Medium.deb1a5e.woff2') format('woff2');
-     font-weight: 500;
-     font-style: normal;
-     font-display: swap;
-}
- 
 
 
 @font-face {
     font-family: 'Gilroy';
-   src: url("./ajaysubx/webtemplate/webtemplate/gilroy-medium-webfont.woff") format("woff"),
-    font-weight: normal;
-    font-style: normal;
-
-}
-
-@font-face {
-    font-family: 'Gilroy';
-   src: url("./ajaysubx/webtemplate/webtemplate/gilroy-medium-webfont.woff") format("woff");
+   src: url("https://ajaysubx.github.io/webtemplate/gilroy-medium-webfont.woff") format("woff"),
     font-weight: normal;
     font-style: normal;
 
